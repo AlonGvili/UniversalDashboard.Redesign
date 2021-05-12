@@ -17,7 +17,7 @@
     "@material/tab-scroller": "^4.0.0",
     "@rmwc/tabs": "^5.7.2",
     "@rmwc/toolbar": "^5.7.2",
-    "chart.js": "2.9.3",
+    "chart.js": "2.9.4",
     "classnames": "^2.2.6",
     "clipboard-polyfill": "^2.8.6",
     "glamor-jss": "^1.4.1",
